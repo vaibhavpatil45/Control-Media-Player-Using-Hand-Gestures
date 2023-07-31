@@ -1,0 +1,6 @@
+opencv
+streamlit
+numpy
+mediapipe
+pyautogui
+time
